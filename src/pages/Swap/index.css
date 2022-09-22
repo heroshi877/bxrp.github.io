@@ -10,12 +10,7 @@ nav.sc-bTvRPi.jiMPjx {
 .sc-hOqqkJ.gnCGOc {
     background-color: #00059c;
 }
-h2.sc-gsTCUz.sc-hHftDr.XSMoB.ddLuh {
-    color:#ffb900;
-}
-h2.sc-gsTCUz.sc-hHftDr.fgSoKU.ddLuh {
-    color:#ffb900;
-}
+
 button.sc-dlfnbm.gCjsjF {
     color:#ffb900;
     background-color: #0005a52d;
@@ -90,41 +85,6 @@ a#pool-nav-link {
     background-color: #0006aa;
     color: #ffb900;
     block-size: 40px;
-}
-button.sc-dlfnbm.hEYwvo {
-    webkit-align-items: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    border: 0;
-    border-radius: 16px;
-    box-shadow: 0px -1px 0px 0px rgb(14 14 44 / 40%) inset;
-    cursor: pointer;
-    display: -webkit-inline-box;
-    display: -webkit-inline-flex;
-    display: -ms-inline-flexbox;
-    display: inline-flex;
-    font-family: inherit;
-    font-size: 16px;
-    font-weight: 600;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-letter-spacing: 0.03em;
-    -moz-letter-spacing: 0.03em;
-    -ms-letter-spacing: 0.03em;
-    letter-spacing: 0.03em;
-    line-height: 1;
-    opacity: 1;
-    outline: 0;
-    -webkit-transition: background-color 0.2s;
-    transition: background-color 0.2s;
-    height: 48px;
-    padding: 0 24px;
-    background-color: #ffb900;
-    color: #0006aa;
-    width: 100%;
 }
 .sc-gsTCUz.XSMoB {
     color:#ffb900 ;
@@ -322,9 +282,7 @@ button.sc-dlfnbm.hEYwvo {
 .sc-gsTCUz.lkpzfj {
     color: #ffbb00;
 }
-h2.sc-gsTCUz.sc-hHftDr.gAZIAq.ddLuh {
-    color: #ffbb00;
-}
+
 .sc-gsTCUz.ZFEBg {
     color: #ffbb00;
 }
