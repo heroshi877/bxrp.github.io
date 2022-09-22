@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://mozartfinance.io/',
+    href: '/swap',
   },
   {
     label: 'Trade',
@@ -23,12 +23,22 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://mozartfinance.io/farms',
+    href: '/pool',
   },
   {
-    label: 'Pools',
+    label: 'Pools (Soon)',
     icon: 'PoolIcon',
-    href: 'https://mozartfinance.io/pools',
+    href: '',
+  },
+  {
+    label: 'NFT Mint (Soon)',
+    icon: 'NftIcon',
+    href: '',
+  },
+  {
+    label: 'ICO (Soon)',
+    icon: 'GroupsIcon',
+    href: '',
   },
   {
     label: 'More',
@@ -36,22 +46,22 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/mozartfinance',
+        href: 'https://github.com/',
       },
       {
-        label: 'Docs',
-        href: 'https://mozartfinance.gitbook.io/mozart-finance/',
+        label: 'Whitepaper (Soon)',
+        href: '',
       },
       {
         label: 'Blog',
-        href: 'https://mozart-finance.medium.com/',
+        href: 'https://medium.com/',
       },
     ],
   },
   {
-    label: 'Audit by IB',
+    label: 'Audit (Soon)',
     icon: 'TicketIcon',
-    href: 'https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/blob/main/Mozart%20Finance/Mozart%20Finance%20(PIANO)%20-%20Final%20Audit%20Report.pdf',
+    href: '',
   },
 ]
 
