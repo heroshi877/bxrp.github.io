@@ -40,9 +40,6 @@ nav.sc-bTvRPi.hcmdSI {
 .sc-dwfUOf.gHIOPr {
     background-color: #16161c;
 }
-.sc-jQbIHB.gTZZqe {
-    background-color: #565cff7d;
-}
 .sc-gsTCUz.ktjdDu {
     color: #ffb900;
 }
@@ -59,5 +56,8 @@ button.sc-hYZPRl.kREqLP.open-currency-select-button {
     background-color: #7e82ff38;
 }
 button.sc-hYZPRl.kREqLP.open-currency-select-button:hover {
+    background-color: #7e82ff;
+}
+button.sc-dlfnbm.iDneoe.sc-hKgILt.fwjcqd {
     background-color: #7e82ff;
 }
