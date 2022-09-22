@@ -1,5 +1,5 @@
 {
-  "name": "Mozart Finance Default List",
+  "name": "LUNACash Default List",
   "timestamp": "2021-04-01T09:56:23Z",
   "version": {
     "major": 1,
@@ -11,12 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "MozartFinance Token",
-      "symbol": "PIANO",
-      "address": "0xd46936677b2c1bb696f2b67c55239331e2b7cd42",
+      "name": "LUNACash Token",
+      "symbol": "LUNACash",
+      "address": "0x97f8cca7b163e6ef1e9512ea0ba40f3b2f6e6e4d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.mozartfinance.io/images/coins/PIANO.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x97f8cca7b163e6ef1e9512ea0ba40f3b2f6e6e4/logo.png"
     },
     {
       "name": "WBNB Token",
@@ -24,7 +24,7 @@
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png"
     },
     {
       "name": "Ethereum Token",
@@ -32,7 +32,7 @@
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.png"
     },
     {
       "name": "PancakeSwap Token",
@@ -40,7 +40,7 @@
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82/logo.png"
     },
     {
       "name": "BUSD Token",
@@ -48,7 +48,7 @@
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0xe9e7cea3dedca5984780bafc599bd69add087d56/logo.png"
     },
     {
       "name": "Tether USD",
@@ -56,7 +56,7 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x55d398326f99059ff775485246999027b3197955/logo.png"
     },
     {
       "name": "Binance-Peg USD Coin",
@@ -64,7 +64,7 @@
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png"
     },
     {
       "name": "Polkadot Token",
@@ -72,7 +72,7 @@
       "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x7083609fce4d1d8dc0c979aab8c869ea2c873402/logo.png"
     },
     {
       "name": "Cardano Token",
@@ -80,7 +80,7 @@
       "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
+      "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/logo.png"
     }
   ]
 }
