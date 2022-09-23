@@ -73,11 +73,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Twitter',
-        href: 'https://twitter.com/lunacash_official',
-      },
-      {
-        label: 'Blog',
-        href: 'https://medium.com/',
+        href: 'https://twitter.com/lunacash_ofc',
       },
     ],
   },
