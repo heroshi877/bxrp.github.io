@@ -121,9 +121,6 @@ svg.sc-bdfBwQ.exSDhd {
 svg.sc-bdfBwQ.bznkAm {
     fill: transparent;
 }
-.sc-jXktwP.jRSiJD {
-    background-color: #040446e8;
-}
 .sc-GTWni.sc-bXDlPE.sc-eGCarw.sc-dwcuIR.fgQJTQ.gGskBg.jqTxQZ.bcRrzt.token-item-0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82:hover:hover { 
     background-color: #ffbb0069;
 }
@@ -152,6 +149,9 @@ svg.sc-bdfBwQ.bznkAm {
     background-color: #ffbb0069;
 }
 .sc-GTWni.sc-bXDlPE.sc-eGCarw.sc-dwcuIR.fgQJTQ.gGskBg.jqTxQZ.bcRrzt.token-item-0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c:hover {
+    background-color: #ffbb0069;
+}
+.sc-GTWni.sc-bXDlPE.sc-eGCarw.sc-dwcuIR.fgQJTQ.gGskBg.jqTxQZ.bcRrzt.token-item-ETHER:hover {
     background-color: #ffbb0069;
 }
 input.sc-bBXqnf.fpHsFd {
@@ -183,4 +183,8 @@ button.sc-dlfnbm.hIUVeI {
 }
 .sc-jXktwP.jRSiJD {
     background-color: #040657e3;
+}
+.jRSiJD[data-reach-dialog-content] {
+    width: 85vw;
+    background-color: #03065788;
 }
