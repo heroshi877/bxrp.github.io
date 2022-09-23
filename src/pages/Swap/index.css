@@ -181,9 +181,20 @@ button.sc-dlfnbm.hIUVeI {
     background-color: #ffb900;
     color: #070a6e;
 }
-@media screen and (min-width: 576px)
-<style>
 .jRSiJD[data-reach-dialog-content] {
-    background: #03065788;
+    width: 85vw;
+    background-color: #03065788;
 }
-
+button.sc-dlfnbm.hTWAIs {
+    color: #ffb900;
+}
+input.sc-bBXqnf.hTHEwH {
+    background-color: #7e82ff;
+    color: #ffb900;
+}
+input.sc-tkKAw.hLIkfq.token-amount-input {
+    color: #ffb900;
+}
+svg.sc-kYrkKh.jvpWRE {
+    color:#ffb900;
+}
