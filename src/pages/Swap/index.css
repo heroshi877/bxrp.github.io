@@ -181,7 +181,9 @@ button.sc-dlfnbm.hIUVeI {
     background-color: #ffb900;
     color: #070a6e;
 }
-.sc-jXktwP.jRSiJD {
-    background-color: #040657e3;
+@media screen and (min-width: 576px)
+<style>
+.jRSiJD[data-reach-dialog-content] {
+    background: #03065788;
 }
 
