@@ -12,7 +12,7 @@
   "tokens": [
     {
       "name": "LUNACash Token",
-      "symbol": "LUNAC",
+      "symbol": "LUNC",
       "address": "0xc0a7045d479e937d71828ff7a52e9dda9df67a88",
       "chainId": 56,
       "decimals": 18,
