@@ -63,6 +63,25 @@ const config: MenuEntry[] = [
     icon: 'TicketIcon',
     href: '',
   },
+  {
+    label: ' Community',
+    icon: 'GroupsIcon',
+    items: [
+      {
+        label: 'Telegram',
+        href: 'https://t.me/lunacash_official',
+      },
+      {
+        label: 'Twitter',
+        href: 'https://twitter.com/lunacash_official',
+      },
+      {
+        label: 'Blog',
+        href: 'https://medium.com/',
+      },
+    ],
+  },
+
 ]
 
 export default config
