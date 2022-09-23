@@ -3,7 +3,7 @@ import useGetPriceData from './useGetPriceData'
 
 const useGetDocumentTitlePrice = () => {
   const priceData = useGetPriceData()
-  const cakePriceUsd = priceData ? parseFloat(priceData.prices.CAKE) : 0
+  const cakePriceUsd = priceData ? parseFloat(priceData.prices.LUNACash) : 0
 
     
 
