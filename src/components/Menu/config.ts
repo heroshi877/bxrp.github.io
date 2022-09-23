@@ -69,12 +69,10 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Telegram',
-        icon: 'TelegramIcon',
         href: 'https://t.me/lunacash_official',
       },
       {
         label: 'Twitter',
-        icon: 'TwitterIcon',
         href: 'https://twitter.com/lunacash_ofc',
       },
     ],
