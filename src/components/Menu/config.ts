@@ -69,11 +69,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Telegram',
-        href: 'https://t.me/bxrp_official',
+        href: 'https://t.me/xrpc_official',
       },
       {
         label: 'Twitter',
-        href: 'https://twitter.com/bxrp_official',
+        href: 'https://twitter.com/xrpc_official',
       },
     ],
   },
