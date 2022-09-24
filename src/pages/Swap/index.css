@@ -365,3 +365,8 @@ a#swap-nav-link {
 body {
     background-color: #ffb900;
 }
+a#pool-nav-link {
+    background-color: #000000;
+    color: #ffb900;
+    block-size: 40px;
+}
