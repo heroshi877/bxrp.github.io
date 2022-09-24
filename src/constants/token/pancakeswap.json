@@ -1,5 +1,5 @@
 {
-  "name": "BXRP Default List",
+  "name": "XRPCash Default List",
   "timestamp": "2021-04-01T09:56:23Z",
   "version": {
     "major": 1,
@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Baby XRP",
-      "symbol": "BXRP",
-      "address": "0xAAf90F41f5c60512d74052176EFc37ae30b42F19",
+      "name": "XRPCash",
+      "symbol": "XRPC",
+      "address": "0x83E0663429537C4810d7D35929a668A9FEFEDec9",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x97f8cca7b163e6ef1e9512ea0ba40f3b2f6e6e4/logo.png"
