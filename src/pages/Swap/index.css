@@ -353,3 +353,6 @@ button#confirm-swap-or-send {
     background-color: #ffb900;
     color: #000477;
 }
+div#swap-page {
+    background-color: #000000;
+}
