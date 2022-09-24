@@ -251,7 +251,7 @@ svg.sc-bSFVuW.fubUcm {
     color: #ffb900;
 }
 .sc-fbNXWD.sc-kUbhmq.kQEzLS.jEqguw {
-    background-color: #0e0c40;
+    background-color: #000000;
 }
 .sc-jGVbCA.sc-fXoxut.uGhuI.bDfsnZ {
     background-color: #000000;
@@ -356,3 +356,9 @@ button#confirm-swap-or-send {
 div#swap-page {
     background-color: #000000;
 }
+a#swap-nav-link {
+    background-color: #0006aa;
+    color: #000000;
+    block-size: 40px;
+}
+
