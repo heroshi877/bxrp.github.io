@@ -15,7 +15,7 @@
       "symbol": "XRPC",
       "address": "0x83E0663429537C4810d7D35929a668A9FEFEDec9",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/heroshi877/assets-token/main/0x97f8cca7b163e6ef1e9512ea0ba40f3b2f6e6e4/logo.png"
     },
     {
