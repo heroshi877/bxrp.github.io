@@ -3,7 +3,7 @@ import useGetPriceData from './useGetPriceData'
 
 const useGetDocumentTitlePrice = () => {
   const priceData = useGetPriceData()
-  const cakePriceUsd = priceData ? parseFloat(priceData.prices.XRPC) : 0
+  const cakePriceUsd = priceData ? parseFloat(priceData.prices.PRISE) : 0
 
     
 
@@ -16,7 +16,7 @@ const useGetDocumentTitlePrice = () => {
         })}`
 
   useEffect(() => {
-    document.title = `XRPCash Finance${cakePriceUsdString}`
+    document.title = `PolyRise Finance${cakePriceUsdString}`
   }, [cakePriceUsdString])
 }
 export default useGetDocumentTitlePrice
