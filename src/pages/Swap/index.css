@@ -399,8 +399,8 @@ button#wallet-connect-safepal\ wallet {
     background-color: #6807a4;
 }
 a#join-pool-button {
-    background-color: white;
-    color: #450070;
+    background-color: #450070;
+    color: white;
 }
 a#import-pool-link {
     color: white;
