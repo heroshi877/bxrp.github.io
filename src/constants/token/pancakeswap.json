@@ -11,8 +11,8 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "XRPCash",
-      "symbol": "XRPC",
+      "name": "PolyRise",
+      "symbol": "PRISE",
       "address": "0x83E0663429537C4810d7D35929a668A9FEFEDec9",
       "chainId": 56,
       "decimals": 9,
