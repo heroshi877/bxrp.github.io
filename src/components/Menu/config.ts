@@ -31,6 +31,11 @@ const config: MenuEntry[] = [
     href: '',
   },
   {
+    label: 'Poocoin Chart',
+    icon: 'Market',
+    href: 'https://poocoin.app',
+  },
+  {
     label: 'DAO (Soon)',
     icon: 'GroupsIcon',
     href: '',
