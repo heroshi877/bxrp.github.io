@@ -26,17 +26,12 @@ const config: MenuEntry[] = [
     href: '/pool',
   },
   {
-    label: 'Pools (Soon)',
-    icon: 'PoolIcon',
-    href: '',
-  },
-  {
     label: 'NFT Mint (Soon)',
     icon: 'NftIcon',
     href: '',
   },
   {
-    label: 'ICO (Soon)',
+    label: 'DAO (Soon)',
     icon: 'GroupsIcon',
     href: '',
   },
@@ -44,22 +39,21 @@ const config: MenuEntry[] = [
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      {
-        label: 'Github',
-        href: 'https://github.com/',
-      },
+      
       {
         label: 'Whitepaper (Soon)',
         href: '',
       },
-      {
-        label: 'Blog',
-        href: 'https://medium.com/',
-      },
+   
     ],
   },
   {
     label: 'Audit (Soon)',
+    icon: 'TicketIcon',
+    href: '',
+  },
+  {
+    label: 'KYC (Soon)',
     icon: 'TicketIcon',
     href: '',
   },
@@ -69,11 +63,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Telegram',
-        href: 'https://t.me/xrpc_official',
+        href: 'https://t.me/polyrise',
       },
       {
         label: 'Twitter',
-        href: 'https://twitter.com/xrpc_official',
+        href: 'https://twitter.com/polyrise_offic',
       },
     ],
   },
