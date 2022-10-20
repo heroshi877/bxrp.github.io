@@ -371,3 +371,34 @@ a#pool-nav-link {
     block-size: 40px;
 }
 
+
+
+button#wallet-connect-metamask {
+    background-color: white;
+}
+button#wallet-connect-trustwallet {
+    background-color: white;
+}
+
+button#wallet-connect-mathwallet {
+    background-color: white;
+}
+button#wallet-connect-tokenpocket {
+    background-color: white;
+}
+button#wallet-connect-walletconnect {
+    background-color: white;
+}
+button#wallet-connect-binance\ chain\ wallet {
+    background-color: white;
+}
+button#wallet-connect-safepal\ wallet {
+    background-color: white;
+}
+.sc-dkAroR.hruyQE {
+    background-color: #6807a4;
+}
+a#join-pool-button {
+    background-color: white;
+    color: #450070;
+}
