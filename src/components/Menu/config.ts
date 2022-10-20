@@ -32,7 +32,7 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Poocoin Chart',
-    icon: 'Market',
+    icon: 'TradeIcon',
     href: 'https://poocoin.app',
   },
   {
