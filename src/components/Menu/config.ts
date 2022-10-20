@@ -36,28 +36,6 @@ const config: MenuEntry[] = [
     href: '',
   },
   {
-    label: 'More',
-    icon: 'MoreIcon',
-    items: [
-      
-      {
-        label: 'Whitepaper (Soon)',
-        href: '',
-      },
-   
-    ],
-  },
-  {
-    label: 'Audit (Soon)',
-    icon: 'TicketIcon',
-    href: '',
-  },
-  {
-    label: 'KYC (Soon)',
-    icon: 'TicketIcon',
-    href: '',
-  },
-  {
     label: ' Community',
     icon: 'GroupsIcon',
     items: [
@@ -69,6 +47,30 @@ const config: MenuEntry[] = [
         label: 'Twitter',
         href: 'https://twitter.com/polyrise_offic',
       },
+    ],
+  },
+  
+  {
+    label: 'Audit (Soon)',
+    icon: 'TicketIcon',
+    href: '',
+  },
+  {
+    label: 'KYC (Soon)',
+    icon: 'TicketIcon',
+    href: '',
+  },
+  
+  {
+    label: 'More',
+    icon: 'MoreIcon',
+    items: [
+      
+      {
+        label: 'Whitepaper (Soon)',
+        href: '',
+      },
+   
     ],
   },
 
