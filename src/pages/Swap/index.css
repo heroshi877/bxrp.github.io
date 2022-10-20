@@ -402,3 +402,6 @@ a#join-pool-button {
     background-color: white;
     color: #450070;
 }
+a#import-pool-link {
+    color: white;
+}
