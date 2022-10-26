@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Telegram',
-        href: 'https://t.me/polyrise',
+        href: 'https://t.me/polyrise_official',
       },
       {
         label: 'Twitter',
